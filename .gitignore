@@ -1,0 +1,9 @@
+data/
+models/
+*.pth
+*.pt
+*.zip
+*.pdf
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
