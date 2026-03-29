@@ -1,0 +1,6 @@
+filepath,true_label,predicted_label,anomaly_score,p_bad
+data/raw/bad/11_IMG_2E420008_2025-01-29_15-07-18_000021_GlossRatio_cropped.png,bad,good,4.0975,0.0606
+data/raw/good/GOOD_IMG_2E420008_2025-01-17_10-59-26_000087_GlossRatio_cropped.png,good,bad,4.7005,0.2070
+data/raw/good/GOOD_IMG_2E420008_2025-01-17_10-47-31_000017_GlossRatio_cropped.png,good,bad,5.2180,0.4669
+data/raw/good/GOOD_IMG_2E420008_2025-01-31_11-06-04_000016_GlossRatio_cropped.png,good,bad,4.5912,0.5100
+data/raw/good/GOOD_IMG_2E420008_2025-01-13_15-15-43_000276_GlossRatio_cropped.png,good,bad,5.0645,0.0706

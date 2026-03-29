@@ -1,0 +1,4 @@
+filepath,true_label,predicted_label
+data/raw/bad/05_IMG_2E420008_2025-01-20_14-31-30_000753_GlossRatio_cropped.png,bad,good
+data/raw/bad/11_IMG_2E420008_2025-01-29_15-07-18_000021_GlossRatio_cropped.png,bad,good
+data/raw/good/GOOD_IMG_2E420008_2025-01-31_11-06-04_000016_GlossRatio_cropped.png,good,bad
