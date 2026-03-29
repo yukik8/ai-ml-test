@@ -1,4 +1,4 @@
-# English below
+English below
 
 # 画像品質分類 — ロゴ汚れ検出
 
